@@ -1,9 +1,11 @@
 # Banana-talk
-A language translator which convert the text into minion language created by using JS, html, css and funtranslation api.
+
+## Tech Stack
+App is created by using Vanilla JS, HTML, CSS and funtranslation api.
 
 
 ## About
-This app will translate your message into minions language. </br>
+A language translator app will translate your message into minions language. </br>
 Click here https://bananatalk123.netlify.app/ to translate your message.
 
 
