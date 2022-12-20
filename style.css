@@ -2,7 +2,7 @@
     font-size: 2rem;
     padding: 1rem 1rem;
     text-align: center;
-    background-color:rgb(117, 238, 106);
+    background-color:rgb(174, 185, 74);
     height: 10vh;
 }  
 
@@ -21,16 +21,21 @@ body{
     font-size: large;
     padding: 1rem 1rem;
     text-align: center;
-    background-color:rgb(117, 238, 106);
+    background-color:rgb(174, 185, 74);
     height: 10vh;
     bottom:0;
     position:fixed;
     width:100%;
 }
 
+main{
+    margin: auto;
+    max-width: 60%;
+}
+
 textarea {
     display: block;
-    width: 50%;
+    width: 100%;
     min-height: 20vh;
     margin-top: 2rem;
     font-size: large;
@@ -43,24 +48,24 @@ textarea {
 
 
 button {
-    background-color:rgb(117, 238, 106);
+    background-color:rgb(174, 185, 74);
     border: none;
     margin-top: 1rem;
     padding: 1rem 2rem;
     font-family: 'Kalam', cursive;
     font-size: large;
     align-items: center;
-    margin-left:21.5rem;
+    margin:1rem 0rem;
 }
 
 .emoji{
-    margin-left:21.5rem;
+    margin: 1rem 0rem;
     padding-top: 1rem;
 }
 
 #translate-output {
     box-sizing: border-box;
-    width: 50%;
+    width: 100%;
     min-height: 10vh;
     max-height: 20vh;
     overflow: scroll;
@@ -69,6 +74,15 @@ button {
     font-size: large;
     margin:1rem auto;
 }
+
+p{
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    padding-top: 0.5rem;
+
+}
+
 
 
 
