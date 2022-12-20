@@ -8,7 +8,6 @@ Click here https://bananatalk123.netlify.app/ to translate your message.
 
 
 ### Features
-* Takes text from user.
-* Makes API call to server.
-* show the response of the api. </br>
-![image](https://user-images.githubusercontent.com/110299602/208469559-608899f1-0b0d-45a7-a9b3-10bff09cd7cf.png)
+* Takes text as input from user.
+* Translates Text to the way minion speaks on clicking "Translate to Banana" button <br/>
+   ![image](https://user-images.githubusercontent.com/110299602/208645481-cc423188-938f-4de3-b92c-099adb965865.png)
